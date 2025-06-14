@@ -1,4 +1,4 @@
-# -Arvore-Confic-Tools-Calculadora-Auto-Click
+# Arvore-Confic-Tools-Calculadora-Auto-Click
 
 # ✅ Calculadora de Cliques + Auto Click
 
